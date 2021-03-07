@@ -53,3 +53,7 @@ Privacy act 1.2
 -[ ] Everthing reasonably possible to prevent unauthorised use/disclosure
 
 * Only authorised users to have access to use,share or distribute data.
+
+* Everything reasonably done to prevent unauthorised use.
+
+

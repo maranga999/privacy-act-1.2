@@ -14,4 +14,9 @@ Privacy act 1.2
 
 -[ ] That information is publicly available
 
+* Users have the ability to update their personal information
+
 -[ ] the individual concerned authorises collection from someone else
+
+* Make sure the user agrees to all the terms of information gathered.
+

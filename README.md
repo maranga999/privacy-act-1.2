@@ -28,5 +28,9 @@ Privacy act 1.2
 
 * The user has the ability to give consent.
 
+## Manner of collection of personal information
 
+-[x] By unlawful means
+
+-[x] Are unfair
 

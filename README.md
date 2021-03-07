@@ -12,6 +12,8 @@ Privacy act 1.2
 
 * Only request information pertaining to the subject matter
 
+* Caveat the need or not for legally requiring information.
+
 ## Source of personal information
 
 -[ ] That information is publicly available

@@ -46,4 +46,10 @@ Privacy act 1.2
 
 -[ ] Information is protected, by security against loss or misuse
 
+* The use of encryption on all information
+
+* Regular purge and reassignment of passwords.
+
 -[ ] Everthing reasonably possible to prevent unauthorised use/disclosure
+
+* Only authorised users to have access to use,share or distribute data.

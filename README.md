@@ -10,3 +10,8 @@ Privacy act 1.2
 
 * Only request information pertaining to the subject matter
 
+## Source of personal information
+
+-[ ] That information is publicly available
+
+-[ ] the individual concerned authorises collection from someone else

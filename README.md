@@ -60,4 +60,6 @@ Privacy act 1.2
 
 -[ ] Personal information by the individual to be easily retrieved
 
+* 
+
 -[ ] The individual to have access to personal information

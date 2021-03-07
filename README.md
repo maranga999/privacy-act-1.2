@@ -56,4 +56,8 @@ Privacy act 1.2
 
 * Everything reasonably done to prevent unauthorised use.
 
+## Access to personal information
 
+-[ ] Personal information by the individual to be easily retrieved
+
+-[ ] The individual to have access to personal information

@@ -52,6 +52,9 @@ Privacy act 1.2
 
 -[ ] Personal information by the individual to be easily retrieved
 
-* 
+* Have processes in place for a request for personal information.
+* Confirmation the an individuals information is being held.
 
 -[ ] The individual to have access to personal information
+
+* 

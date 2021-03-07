@@ -57,4 +57,6 @@ Privacy act 1.2
 
 -[ ] The individual to have access to personal information
 
+* Upon being granted access an individual may request the correction of that information.
+* To adhere to the provisions of IPP part 4 in granting access.
 * 

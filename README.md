@@ -30,13 +30,13 @@ Privacy act 1.2
 
 ## Manner of collection of personal information
 
--[] By unlawful means
+-[ ] By unlawful means
 
 * Always adhear to the law and only collect personal information in this circumstance.
 
 * Pay particular attention and care with information pertaining to minors.
 
--[] Are unfair
+-[ ] Are unfair
 
 * Do not unreasonably intrude upon an individual.
 
@@ -58,8 +58,8 @@ Privacy act 1.2
 
 ## Access to personal information
 
--[ ] Personal information by the individual to be easily retrieved
+-[  ] Personal information by the individual to be easily retrieved
 
 * 
 
--[ ] The individual to have access to personal information
+-[  ] The individual to have access to personal information

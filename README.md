@@ -34,8 +34,12 @@ Privacy act 1.2
 
 * Always adhear to the law and only collect personal information in this circumstance.
 
-* Do not unreasonably intrude upon an individual.
+* Pay particular attention and care with information pertaining to minors.
 
 -[x] Are unfair
 
-* 
+* Do not unreasonably intrude upon an individual.
+
+* Pay particular care to personal affairs of an individual.
+
+

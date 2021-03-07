@@ -42,4 +42,8 @@ Privacy act 1.2
 
 * Pay particular care to personal affairs of an individual.
 
+## Storage and security of personal information
 
+-[ ] Information is protected, by security against loss or misuse
+
+-[ ] Everthing reasonably possible to prevent unauthorised use/disclosure

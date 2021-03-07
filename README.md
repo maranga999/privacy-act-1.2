@@ -58,8 +58,8 @@ Privacy act 1.2
 
 ## Access to personal information
 
--[  ] Personal information by the individual to be easily retrieved
+-[ ] Personal information by the individual to be easily retrieved
 
 * 
 
--[  ] The individual to have access to personal information
+-[ ] The individual to have access to personal information

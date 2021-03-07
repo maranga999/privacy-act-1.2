@@ -6,6 +6,8 @@ Privacy act 1.2
 
 * Provide assurances that all the data is being collected for function.
 
+* And that the purpose is for a lawful activity.
+
 -[ ] Necessary data collection for purpose
 
 * Only request information pertaining to the subject matter

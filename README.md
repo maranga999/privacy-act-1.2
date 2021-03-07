@@ -32,5 +32,10 @@ Privacy act 1.2
 
 -[x] By unlawful means
 
+* Always adhear to the law and only collect personal information in this circumstance.
+
+* Do not unreasonably intrude upon an individual.
+
 -[x] Are unfair
 
+* 

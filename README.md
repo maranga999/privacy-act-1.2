@@ -76,6 +76,12 @@ From users bank account details to home addresses , date of birth to personal ph
 
 * Any use on our part of your data is to enhance your user experience.
 
+## Privacy policy link
+
+* https://www.privacypolicygenerator.info/live.php?token=hiYRsvLKfE5J6D2MJ3e1GYrqcKItCvkk 
+
+ 
+
 # Policy-implementation
 
 ## The policy implements and encompasses a multitude of facets from the privacy act.

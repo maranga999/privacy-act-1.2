@@ -70,7 +70,7 @@ From users bank account details to home addresses , date of birth to personal ph
 
 * We will respect and honour your privacy.
 
-* We commit to honesty and transpaency with your personal information especially if something goes wrong.
+* We commit to honesty and transparency with your personal information especially if something goes wrong.
 
 * We will not be involved in anything that would potentially put your data at risk.
 

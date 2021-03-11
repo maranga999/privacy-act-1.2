@@ -1,5 +1,5 @@
 # privacy-act-1.2
-Privacy act 1.2
+Privacy Checklist
 ## Purpose of the collection of personal information
 
 -[ ] Legally collected for function

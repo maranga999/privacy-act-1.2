@@ -1,4 +1,4 @@
-# Privacy Checklist
+# 1. Privacy Checklist
 ## Purpose of the collection of personal information
 
 -[ ] Legally collected for function
@@ -59,7 +59,7 @@
 * Upon being granted access an individual may request the correction of that information.
 * To adhere to the provisions of IPP part 4 in granting access.
 
-# Privacy-Policy
+# 2. Privacy-Policy
 
 The website I have chosen is https://www.trademe.co.nz/ . Multiple sources of data are being collected , stored and shared with and between users and the website.
 
@@ -81,7 +81,7 @@ From users bank account details to home addresses , date of birth to personal ph
 
  
 
-# Policy-implementation
+# 3. Policy-implementation
 
 ## The policy implements and encompasses a multitude of facets from the privacy act.
 
